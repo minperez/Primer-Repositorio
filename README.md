@@ -31,7 +31,8 @@ La norma SAE USCAR-21 establece los parámetros requeridos para evaluar la calid
 https://uscar.org/wpfd_file/uscar-21-report-template/
 
 
-2. Estructura del proyecto
+
+2 Estructura del proyecto
 
 2.1 Dataset y scripts de soporte
 
