@@ -3,7 +3,7 @@
 
 <img width="853" height="224" alt="image" src="https://github.com/user-attachments/assets/71a0cebd-0243-445f-b7ca-f29cc1da022f" />
 
-# Indice
+Indice
 1. Introducción
 2. Estructura del proyecto
    2.1. Dataset y scripts de soporte
