@@ -7,7 +7,6 @@ Indice
 - Introducción
 - Estructura del proyecto
 - Requisitos
-- Uso
 - Análisis comparativo de modelos
 
 Introducción
@@ -29,7 +28,11 @@ La norma SAE USCAR-21 establece los parámetros requeridos para evaluar la calid
 <img width="862" height="934" alt="image" src="https://github.com/user-attachments/assets/40ea8050-fd8d-4098-9377-b0e3d41d89a6" />
 https://uscar.org/wpfd_file/uscar-21-report-template/
 
+Estructura del proyecto
 
+Requisitos
+
+Análisis comparativo de modelos
 
 
 
