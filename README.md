@@ -11,7 +11,7 @@ Indice
 3. Análisis comparativo de modelos
 
 
-1 Introducción
+# 1 Introducción
 
 Para realizar la actividad 4 del curso gestión de proyectos de inteligencia artificial es de mi interés poner en práctica el uso de redes neuronales en la detección de imágenes especialmente en discriminar muestras conformes y no conformes de los resultados de pruebas de crimpado bajo la norma SAE USCAR-21 la cual evalúa la calidad del proceso de crimpado entre cables y terminales para uso en la industria automotriz asegurando que los crimpados cumplan con los requisitos de retención de fuerza y resistencia a lo largo del tiempo bajo condiciones rigurosas de uso de los vehículos.
 
@@ -32,7 +32,7 @@ https://uscar.org/wpfd_file/uscar-21-report-template/
 
 
 
-2 Estructura del proyecto
+# 2 Estructura del proyecto
 
 2.1 Dataset y scripts de soporte
 
@@ -55,7 +55,7 @@ Dataset link: https://drive.google.com/drive/folders/18dPr7dtrLWA3Qso4UI7ruTAkaN
 <img width="938" height="632" alt="image" src="https://github.com/user-attachments/assets/9325a9c3-118b-4bf7-a724-a5de4b5a6256" />
 
 
-3. Análisis comparativo de modelos
+# 3. Análisis comparativo de modelos
 
 
 
