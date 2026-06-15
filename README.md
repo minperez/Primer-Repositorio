@@ -46,7 +46,7 @@ Desafortunadamente no pude localizar un dataset ya existente en la red debido a 
 
 Finalmente termine buscando en la red todas aquellas imágenes disponibles de resultados de pruebas USCAR-21 para comenzar a crear mi dataset con imágenes CONFORMES y NO CONFORMES a la norma SAE USCAR-21.
 
-Dataset link: https://drive.google.com/drive/folders/18dPr7dtrLWA3Qso4UI7ruTAkaNJ_XWY4?usp=sharing
+Dataset (rechazado / aprobado) link: https://drive.google.com/drive/folders/18dPr7dtrLWA3Qso4UI7ruTAkaNJ_XWY4?usp=sharing
 
 <img width="830" height="444" alt="image" src="https://github.com/user-attachments/assets/83d6d630-cae5-4256-9302-26226c743c86" />
 
