@@ -54,8 +54,8 @@ Dataset link: https://drive.google.com/drive/folders/18dPr7dtrLWA3Qso4UI7ruTAkaN
 <img width="938" height="632" alt="image" src="https://github.com/user-attachments/assets/9325a9c3-118b-4bf7-a724-a5de4b5a6256" />
 
 
-
 3. Análisis comparativo de modelos
+
 
 
 
