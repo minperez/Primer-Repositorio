@@ -1,5 +1,5 @@
 # Primer-Repositorio
-Modelo DL visión por computadora para clasificar la calidad de los crimpados eléctricos automotrices según la norma USCAR-21
+# Modelo DL visión por computadora para clasificar la calidad de los crimpados eléctricos automotrices según la norma USCAR-21
 
 <img width="853" height="224" alt="image" src="https://github.com/user-attachments/assets/71a0cebd-0243-445f-b7ca-f29cc1da022f" />
 
