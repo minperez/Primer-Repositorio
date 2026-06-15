@@ -6,8 +6,9 @@ Modelo DL visión por computadora para clasificar la calidad de los crimpados el
 Indice
 1. Introducción
 2. Estructura del proyecto
+
    2.1 Dataset y scripts de soporte
-3. Análisis comparativo de modelos
+4. Análisis comparativo de modelos
 
 1. Introducción
 
