@@ -8,7 +8,8 @@ Indice
 2. Estructura del proyecto
 
    2.1 Dataset y scripts de soporte
-4. Análisis comparativo de modelos
+3. Análisis comparativo de modelos
+
 
 1. Introducción
 
